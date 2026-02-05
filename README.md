@@ -11,7 +11,7 @@ Simples, eu queria uma solução que me permitisse ver o status do meu notebook 
 > > - Samsung Galaxy Tab A9+ (Android 16) 
 > > - Samsung Galaxy S24Fe (Android 16)
 > > - Samsung Galaxy A55 (Android 15)
-> > > Tenha em mente também que o app foi feito para ser ultilizado na horizontal, então pode haver problemas na visualização em modo retrato e também foi feito para ser ultilizado em uma rede local, logo não garanto funcionalidade em redes externas.
+> Tenha em mente também que o app foi feito para ser ultilizado na horizontal, então pode haver problemas na visualização em modo retrato e também foi feito para ser ultilizado em uma rede local, logo não garanto funcionalidade em redes externas.
 
 ### Funcionalidades
 - Visualização do uso de CPU, RAM, Armazenamento.
