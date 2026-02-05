@@ -8,9 +8,9 @@ Simples, eu queria uma solução que me permitisse ver o status do meu notebook 
 ### Avisos
 > [!WARNING]  
 > O Nex Viewer, o aplicativo em sí foi desenvolvido usando VibeCoding logo foi criado por IA, já o servidor foi feito a mão mesmo, então pode haver alguns bugs ou alguma falha no app, pode ser incompativel com alguns dispositivos e versão do android, no meu caso eu testei em 3 dispositivos usando a ultima versão do android:
-> > - Samsung Galaxy Tab A9+ (Android 16) 
-> > - Samsung Galaxy S24Fe (Android 16)
-> > - Samsung Galaxy A55 (Android 15)
+> - Samsung Galaxy Tab A9+ (Android 16) 
+> - Samsung Galaxy S24Fe (Android 16)
+> - Samsung Galaxy A55 (Android 15)
 > Tenha em mente também que o app foi feito para ser ultilizado na horizontal, então pode haver problemas na visualização em modo retrato e também foi feito para ser ultilizado em uma rede local, logo não garanto funcionalidade em redes externas.
 
 ### Funcionalidades
