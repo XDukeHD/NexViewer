@@ -67,7 +67,7 @@ class WebSocketManager(
                     override fun onClosing(webSocket: WebSocket, code: Int, reason: String) {
                         Log.d("WebSocketManager", "Closing: $code $reason")
                         if (code == 4004 || code == 4001) {
-                             scheduleReconnect()
+                            scheduleReconnect()
                         }
                     }
 
